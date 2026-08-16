@@ -1,0 +1,21 @@
+{
+  "background_color": "#064e3b",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Arewa Matchmaking Services",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "ArewaMatch",
+  "start_url": "/",
+  "theme_color": "#064e3b",
+  "id": "/com.arewamatch.app",
+  "description": "Halal Matchmaking Services for Northern Nigeria",
+  "icons": [
+    {
+      "src": "/static/core/img/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
