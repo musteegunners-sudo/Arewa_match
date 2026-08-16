@@ -23,7 +23,9 @@ INSTALLED_APPS = [
     
     # Custom apps
     'common',
+    'matching',  # <--- Added
 ]
+
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
